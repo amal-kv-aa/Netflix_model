@@ -1,16 +1,4 @@
-# netfix
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this Project is a clone App of Netflix 
+both http and Dio used for api calls and used bloc for statemanagement
+its not a complete app it have only the netflix ui models and basic actions 
+the project did for learning the Rest api Services 
